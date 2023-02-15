@@ -2,7 +2,7 @@
   "name": "codebusters",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://artembortyaniy.github.io/codebusters/",
+  "homepage": "https://ruudyaa.github.io/codebusters",
 
   "scripts": {
     "start": "parcel src/*.html",
