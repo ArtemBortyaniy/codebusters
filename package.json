@@ -2,7 +2,8 @@
   "name": "codebusters",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ruudyaa.github.io/codebusters",
+  "homepage": "https://artembortyaniy.github.io/codebusters/",
+
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /codebusters/"
